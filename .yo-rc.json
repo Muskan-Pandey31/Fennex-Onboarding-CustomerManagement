@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "fennnex-customer-management",
+    "libraryId": "ca7501b0-ac99-44b4-a38b-808028dacd80",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "fennnex-customer-management",
+    "solutionShortDescription": "fennnex-customer-management description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

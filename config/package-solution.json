@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fennnex-customer-management-client-side-solution",
+    "id": "ca7501b0-ac99-44b4-a38b-808028dacd80",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fennnex-customer-management description"
+      },
+      "longDescription": {
+        "default": "fennnex-customer-management description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fennnex-customer-management Feature",
+        "description": "The feature that activates elements of the fennnex-customer-management solution.",
+        "id": "32589a09-b64e-4254-b9eb-5a5c1d6f5b05",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fennnex-customer-management.sppkg"
+  }
+}
